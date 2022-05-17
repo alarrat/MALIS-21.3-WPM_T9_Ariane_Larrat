@@ -24,7 +24,8 @@ So in Task 1, I looked at how to prepare a digital image collection as web conte
 ## FAQs
 ***
 A list of frequently asked questions
-1.**Why would I do that to myself?**
+
+1. **Why would I do that to myself?**
 Because I'm tired of wondering in environments that are littered with data treasures what actually happens to this data.
 2. **Why do you do this to yourself?**
 Because you can see in this repository that there are even more bloody beginners than you.
