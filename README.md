@@ -25,7 +25,7 @@ Als Probe-Datensatz dienen 18 Bilddateien im Format .jpeg. Bei den Bilddateien h
 
 A. Alle Bilder erhalten die folgende Benennung: YYYYMMDD_hhmmss_header. Hierzu wird das letzte Bearbeitungsdatum aus den Metadaten ausgelesen. Anschließend werden die Dateien umbenannt. Das Bearbeitungsdatum wird verwendet, da dieses ausschlaggebend ist für den Redaktionsprozess der Bilddateien.
 
-B. Die WordPress Blogpost Bilder sollen anschließend in Wordpress Header Bilder umgewandelt werden, also von einer Größe von 1200 x 630 px auf eine Größe von 1048 x 400 px umgewandelt werden.
+B. Die WordPress Blogpost Bilder sollen anschließend in Wordpress Header Bilder umgewandelt werden, also von einer Größe von 1200 x 630 px auf eine Größe von 1048 x 550 px umgewandelt werden.
 
 C. Anschließend werden die Bilder vom RGB-Farbraum in Grautöne angepasst, da die Headerbilder nicht farbig sein sollen.
 
@@ -37,7 +37,7 @@ Task 2 involves trying to put partial solutions from Task 1 into action using a 
 
 A. All images are given the following name: YYYYMMDD_hhmmss_header. For this purpose, the last processing date is read from the metadata. Then the files are renamed. The editing date is used because this is decisive for the editing process of the image files.
 
-B. The WordPress blogpost images are then to be converted into Wordpress header images, i.e. from a size of 1200 x 630 px to a size of 1048 x 400 px.
+B. The WordPress blogpost images are then to be converted into Wordpress header images, i.e. from a size of 1200 x 630 px to a size of 1048 x 550 px.
 
 C. Then the images are adjusted from the RGB color space to grayscale, because the header images should not be colored.
 
