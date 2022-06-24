@@ -1,7 +1,11 @@
 # MALIS 21.3 WPM_T9
+
 ## About the project
+
 This repository was created as part of the Master "Library and Information Science" at the University of Applied Sciences Cologne in summer 2022. Here you can discover my first steps and my very first script with Python.
+
 During the semester, there were 2 tasks that you can find here. On the one hand task 1 (Aufgabe_1) and task 2 (Aufgabe_2).
+
 ## Aufgabe_1
 *german*
 Aufgabe 1 befasst sich damit, eine digitale Bildersammlung als Web Content aufzubereiten, um sie über eine graphische Weboberfläche optimal zur Verfügung zu stellen. Webcontent kann definiert werden als "the stuff in your website", u. a. also "images, audio und video files" (Morville & Rosenfeld, 2006). Aufgabe 1 umfasst die Dokumentation möglicher Schritte.
