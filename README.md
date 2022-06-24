@@ -3,7 +3,8 @@
 # Table of Contents
 1. [General Info](#general-info)
 2. [Tasks](#tasks)
-3. [FAQs](#faqs)
+3. [Contact](#contact)
+4. [FAQs](#faqs)
 
 ## General Info > About the project
 
@@ -61,13 +62,13 @@ D. Finally, the images are converted as .webp graphics to prepare them optimally
 ### Installation
 The script from task 1 can be used by placing it in the directory where the image files are located.
 
-# Contact
+## Contact
 Name: Ariane Johanna Larrat
 Twitter: @arilarrat
 E-Mail: ariane_johanna.larrat@th-koeln.de
 Project Link: https://github.com/alarrat/MALIS-21.3-WPM_T9_Ariane_Larrat/ 
 
-# FAQs
+## FAQs
 ***
 A list of frequently asked questions
 
