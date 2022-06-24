@@ -27,7 +27,7 @@ A. Alle Bilder erhalten die folgende Benennung: YYYYMMDD_hhmmss_header. Hierzu w
 
 B. Die WordPress Blogpost Bilder sollen anschließend in Wordpress Header Bilder umgewandelt werden, also von einer Größe von 1200 x 630 px auf eine Größe von 1048 x 400 px umgewandelt werden.
 
-C. Anschließend werden die Bilder in den RGB-Farbraum angepasst, damit diese optimal am Bildschirm genutzt werden können.
+C. Anschließend werden die Bilder vom RGB-Farbraum in Grautöne angepasst, da die Headerbilder nicht farbig sein sollen.
 
 D. Abschließend werden die Bilder als .Webp-Grafiken konvertiert, um diese optimal als Webcontent aufzubereiten.
 
@@ -39,7 +39,7 @@ A. All images are given the following name: YYYYMMDD_hhmmss_header. For this pur
 
 B. The WordPress blogpost images are then to be converted into Wordpress header images, i.e. from a size of 1200 x 630 px to a size of 1048 x 400 px.
 
-C. The images will then be adjusted to the RGB color space for optimal use on screen.
+C. Then the images are adjusted from the RGB color space to grayscale, because the header images should not be colored.
 
 D. Finally, the images are converted as .webp graphics to prepare them optimally as web content.
 
